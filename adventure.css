@@ -1,0 +1,68 @@
+body {
+ 	background-repeat: no-repeat;
+  	background-attachment: fixed;
+ 	background-position: center;
+ 	background-size: cover;
+ 	margin: 0;
+ 	padding: 0;
+ 	width: 100%;
+ }
+
+ #title {
+ 	font-size: 50px;
+ 	font-family: Brush Script MT, Brush Script Std, cursive;
+ 	font-weight: bold;
+ 	color: #fff;
+ 	background-color: #000;
+ 	width: 23%;
+ 	border:2px; 
+ 	border-style:solid; 
+ 	border-color:#fff; 
+ 	padding: 20px;
+ 	margin-left: 570px;
+ 	text-align: center;
+ }
+
+ #button1 {
+ 	float: left;
+ }
+
+ #button2 {
+ 	margin-left: 350px;
+ }
+
+ #button3 {
+ 	float: right;
+ }
+
+ #game-buttons {
+ 	max-width: 100%;
+ 	padding: 0 20px;
+ }
+
+ #game-buttons button {
+ 	margin-top: 450px;
+ 	padding: 10px;
+ 	background-color: gray;
+ 	border:2px solid #000;
+ 	border-radius: 10px;
+ 	width: 250px;
+ 	opacity: 0.7;
+ 	font-size: 20px;
+ }
+
+ #description {
+ 	font-size: 18px;
+ 	width: 98.5%;
+ 	font-family: Arial;
+ 	background-color: #fff;
+ 	opacity: 0.7;
+ 	padding: 10px;
+ 	border:1px solid #000;
+ 	text-align: center;
+ }
+
+ #inventoryItem {
+ 	margin-top: 45px;
+ 	margin-left: 40px;
+ }
